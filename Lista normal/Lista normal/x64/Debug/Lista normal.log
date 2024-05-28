@@ -1,0 +1,3 @@
+﻿  Lista normal.cpp
+C:\Users\walte\Desktop\Nuevo C++\Lista normal\Lista normal\Lista normal.cpp(285,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Lista normal.vcxproj -> C:\Users\walte\Desktop\Nuevo C++\Lista normal\x64\Debug\Lista normal.exe

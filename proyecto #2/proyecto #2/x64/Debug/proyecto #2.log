@@ -1,0 +1,11 @@
+﻿  Jugador.cpp
+  Lista_cirular.cpp
+  Mesa.cpp
+  Nodo.cpp
+  Pozo.cpp
+  proyecto #2.cpp
+C:\Users\walte\Desktop\Nuevo C++\proyecto #2\proyecto #2\proyecto #2.cpp(78,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\walte\Desktop\Nuevo C++\proyecto #2\proyecto #2\proyecto #2.cpp(539,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+C:\Users\walte\Desktop\Nuevo C++\proyecto #2\proyecto #2\Jugador.cpp(252): warning C4715: 'Jugador::buscar_en': no todas las rutas de acceso de control devuelven un valor
+  proyecto #2.vcxproj -> C:\Users\walte\Desktop\Nuevo C++\proyecto #2\x64\Debug\proyecto #2.exe
