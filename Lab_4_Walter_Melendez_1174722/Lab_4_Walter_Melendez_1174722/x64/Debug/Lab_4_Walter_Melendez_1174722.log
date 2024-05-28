@@ -1,0 +1,4 @@
+﻿  Lab_4_Walter_Melendez_1174722.cpp
+C:\Users\walte\Desktop\Nuevo C++\Lab_4_Walter_Melendez_1174722\Lab_4_Walter_Melendez_1174722\Lab_4_Walter_Melendez_1174722.cpp(32,12): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\walte\Desktop\Nuevo C++\Lab_4_Walter_Melendez_1174722\Lab_4_Walter_Melendez_1174722\Lab_4_Walter_Melendez_1174722.cpp(13): warning C4172: devolución de dirección de la variable local o temporal: a
+  Lab_4_Walter_Melendez_1174722.vcxproj -> C:\Users\walte\Desktop\Nuevo C++\Lab_4_Walter_Melendez_1174722\x64\Debug\Lab_4_Walter_Melendez_1174722.exe
